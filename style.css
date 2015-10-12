@@ -1,0 +1,10 @@
+table {
+  background: blue;
+  border:solid;
+  width: 500px;
+  height: 500px;
+}
+
+td{
+  border:solid;
+}
